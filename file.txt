@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+	 	<title> checkpoint </title>
+        <link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxVtKbj91vclu6Xb5nptzsDSBbl1Qv0ccmso-IaFL857X6u-2nu-ViCwM0An0LnaBzog&usqp=CAU" type="image/x-icon"> 
+    </head>
+    
+    <body>
+
+      <h1> This is my first application ! </h1>
+			<!-- this is a comment -->
+            <body>
+                
+            
+            <header>
+                <!-- header section --> 
+                <img src="https://images.squarespace-cdn.com/content/v1/552186b6e4b0bf692316f9d2/1540964677071-DPBV1UB4OD5PUFNT4L79/final.gif" 
+                alt="welcoming image">
+                <nav>
+                    <ul>
+                  <a href="#home">  <li>home</li></a>
+                    <a href="#about"> <li>about</li></a>
+                    <a href="#work"> <li>work</li></a>
+                    <a href="#resume"> <li>resume</li></a>
+                    <a href="#contact"> <li>contact</li></a>
+                    </ul>
+                </nav>
+            </header>
+            <main>
+                <!-- main content -->
+                <div id="home"></div>
+                <h1>home</h1>
+                <p>
+                    Hello and Welcome to My Personal Corner of the Web!
+
+I'm thrilled that you've stopped by. This space is a reflection of my passions, interests, and a little piece of who I am. It's a digital canvas where I express myself, share my thoughts, and connect with wonderful individuals like you.
+
+As you explore these pages, you'll find my musings, creations, and perhaps a glimpse into the things that inspire me. Feel free to take your time, leave a comment, or reach out if you'd like to connect. After all, the web is a place for sharing, learning, and growing together.
+
+Thank you for being here. Your visit means a lot to me, and I hope you find something that resonates or sparks your curiosity. Enjoy your stay!
+                </p>
+                <div id="about"></div>
+                <h1>about</h1>
+                <p>Welcome to [checkpoint]! im belhassen, i created this website to express myself. my mission is to pass the HTML checkpoint, and im passionate about computer science.im here to learn more skils. and feel free to reach out and Thank you for visiting and being a part of my journey</p>
+                <h3>skills :</h3>
+             <label for="">git & github</label>
+             <!-- input1 -->
+                <h4></h4>
+                <label for="">HTML</label>
+                <!-- input2 -->
+                <div id="work"></div>
+                <h1>work</h1>
+                <p>As a web developer, I play a pivotal role in crafting the digital landscape. I meticulously code and design websites, ensuring seamless user experiences and eye-catching aesthetics. My work involves leveraging a variety of programming languages and frameworks to bring web projects to life</p>
+                <div id="resume"></div>
+                <h1>resume</h1>
+            </main>
+                <table border >
+                    <tr>
+                        <th>student</th>
+                        <th>age</th>
+                        <th>course</th>
+                    </tr>
+                    <tr>
+                <td>belhassen</td>
+                <td>17</td>
+                <td>WEB1 DEV</td>
+                    </tr>
+                </table>
+            <footer>
+                <!-- footer -->
+                <div id="contact">
+                    <h1>contact</h1>
+                    <table border >
+                        <tr>
+                            <th>email</th>
+                            <th>phone</th>
+                        </tr>
+                        <tr>
+                    <td>b.abdelhedi1976@gmail.com</td>
+                    <td>29484040</td>
+                        </tr>
+                    </table>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/WdMPKupODo8?si=qgSphhmSKcT3vWNR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               <a href="https://gomycode.com/tn/fr/">
+                <button>gomycode web page !</button>
+               </a>
+                    
+                </div>
+            </footer>
+  </body>
+</html>
